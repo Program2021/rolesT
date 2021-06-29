@@ -1,0 +1,72 @@
+---
+title: "roles"
+author: "nanaVal"
+date: "6/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mod
+
+## Why? 
+Because I want team mates and need your help! Eliminating all possible discomforts from our community in a second is the power you'll get.
+
+## Who? 
+Someone who doesn't mind to clean up dirty words in silence. Your role would  be like [her](https://villains.fandom.com/wiki/Shizuku#:~:text=Shizuku%20Murasaki%20is%20a%20major,within%20the%20troupe%20is%208)...hey, just in case, **don't be criminal**, right?
+
+Basically, anyone who wants the good team work experience with me!
+
+## How?
+You just ban anyone violates the Twitch policy. Is it easy or difficult for you? Why? Answer this question in your first whisper to me, right? 
+
+
+# Com-Picker (urgent!)
+
+## Why? 
+Because I want team mates, again! However, it's not a typical role on Twitch, so I'll explain a bit more. To be honest, I'm an introvert, so just lacks extroverted communication skills in many ways. I like to be watched or stay connected with people, but never can talk well with them. I don't want audiences to feel discomfort because of my critical weakness, so I'm seeking for your help!
+
+## Who? 
+Someone who is stable and cares about all members. Your role would  be like [him](https://villains.fandom.com/wiki/Franklin_Bordeau)...again, just in case, I **don't mean** that you'll be a murder, right? 
+
+Basically, anyone who wants the good team work experience with me is welcome! ... but this role is primal as it functions like the true leader behind us, so think carefully! Just let's challenge though!
+
+## What?
+Basically, you pick up only comments that I need to answer for our community and directly chat me while live-streaming. You can also give me directly what to say with (hopefully) some contexts. 
+
+## How?
+It's about communication and I would be the eternal amateur about it. How would you directly chat me in this case and that case? Why? Answer this question in your first whisper to me, right?
+
+
+# Q&A
+
+## Will you pay for me?
+Yes, but only if we get revenue from twitch, which, I guess, is more difficult than people imagine.
+
+
+## Can I just try once for fun? or only sometimes?
+Yes, it's naturally for our fun, so you may.
+
+## What will happen if I troll using the given power?
+You're just eternally banned and reported. That's all.
+
+## Can I create a new role for us?
+Sure! Very welcome! Discord community manager or business mail checker would be the potential vacant. Just whisper me your idea!
+
+
+
+```{r cars}
+summary(cars)
+```
+
+# Com-Picker
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
